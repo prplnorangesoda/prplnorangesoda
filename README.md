@@ -1,5 +1,6 @@
-Hi, I'm Rafplayz, but you can call me Raf, for short.
+this is rafplayz, you can call me raf for short
 
-- I currently am learning / slightly know javascript development, in both an HTML and Node.js environment. 
-- I'm looking to learn how to create HTML5 applications.
+- i know javascript
+- i know html (barely)
+- i know css (even less)
 
