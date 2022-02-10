@@ -1,6 +1,8 @@
-this is rafplayz, you can call me raf for short
 
-- i know javascript
-- i know html (barely)
-- i know css (even less)
+
+
+typescript!
+Yes!
+FUCK YEAH!
+TYPESCRIP!!!!
 
