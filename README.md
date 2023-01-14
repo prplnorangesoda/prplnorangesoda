@@ -1,8 +1,2 @@
-
-
-
-typescript!
-Yes!
-FUCK YEAH!
-TYPESCRIP!!!!
+ts/rust <3
 
