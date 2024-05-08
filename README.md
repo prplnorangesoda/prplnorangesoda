@@ -1,2 +1,3 @@
-ts/rust <3
+my favourite languages are ts/rust ...
 
+i chip in a bit and love to peer over open source work
