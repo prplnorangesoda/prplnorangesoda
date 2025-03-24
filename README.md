@@ -12,7 +12,7 @@ i have:
   - game development/graphics rendering
   - embedded systems programming
 
-familiarity with (ordered from most to least experienced):
+- familiarity with (ordered from most to least experienced):
   - Lua
     - so nice to use as a scripting language
     - <3
