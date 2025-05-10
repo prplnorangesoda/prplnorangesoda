@@ -6,7 +6,7 @@ i have:
 
 - expertise in:
   - serverside/backend development
-  - frontend development (VGUI in C++, web development in Typescript)
+  - frontend development (VGUI and custom solutions in C++, web development in Typescript)
 
 - been looking to study/program:
   - game development/graphics rendering
@@ -23,10 +23,10 @@ i have:
     - i CAN, but the typesafety provided by TS is usually non negotiable
     - </3
   - Swift
-    - like if Rust had classes, for whenever inheritance is important
+    - imo if rust had classes, for whenever inheritance is important (usually never, but you never know)
     - <3
   - Haxe
-    - recently picked this up! I like its syntax
+    - recently picked this up! I like its syntax and how it compiles to native
     - <3
 
 open for any inquiries about jobs/similar
